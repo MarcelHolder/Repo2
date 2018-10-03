@@ -1,0 +1,10 @@
+ Volume in drive C is Windows 
+ Volume Serial Number is F0A7-D782
+
+ Directory of C:\Users\Marcel\Desktop\Git-Project
+
+10/02/2018  09:10 PM    <DIR>          .
+10/02/2018  09:10 PM    <DIR>          ..
+10/02/2018  09:10 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  254,241,267,712 bytes free
